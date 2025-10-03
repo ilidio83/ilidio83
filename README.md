@@ -1,4 +1,4 @@
-<h1 align="center">Hello World!!</h1>
+<h1 align="center">--Hello World!!--</h1>
 
 ###
 
@@ -14,6 +14,10 @@
 
 ###
 
+<h4 align="left">Rede sociais</h4>
+
+###
+
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
@@ -23,10 +27,20 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/ilidioneto">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ilidioneto&count=10&unique=true" alt="Spotify recently played"  />
-  </a>
+<p align="left">Programas de linguagens</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
 </div>
 
 ###
@@ -41,7 +55,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="217" src="https://i.pinimg.com/originals/00/a2/0a/00a20a67bc0bdbdb698ed0ee7a1cd5db.gif"  />
+  <img height="300" src="https://i.pinimg.com/1200x/00/a2/0a/00a20a67bc0bdbdb698ed0ee7a1cd5db.jpg"  />
 </div>
 
 ###
