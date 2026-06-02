@@ -1,57 +1,42 @@
-<h1 align="center">--Hello World!!--</h1>
+# Olá, eu sou o Ilidio! 👋
 
-###
+### 👨‍💻 Desenvolvedor Backend | Estudante de Computação na UNIESP
 
-<img src="https://raw.githubusercontent.com/ilidio83/ilidio83/output/snake.svg" alt="Snake animation" />
+Sou apaixonado por tecnologia e focado na criação de soluções eficientes, com interesse principal em **Desenvolvimento Backend** e **Administração de Banco de Dados**. Atualmente, estou aprimorando minhas habilidades e construindo uma base sólida na área de Engenharia de Software em João Pessoa - PB.
 
-###
+## 🚀 Sobre mim
 
-<h4 align="left">Olá! 👾 Eu sou Ilídio Neto, apaixonado por programação e games. Bem-vindo(a) ao meu espaço!</h4>
-
-###
-
-<p align="left"># Busco evoluir na Ciência da Computação, criando projetos que unam programação, jogos digitais e inovação.<br><br># Meu objetivo é aprender continuamente e transformar ideias em soluções reais através da tecnologia.<br><br># Quero crescer como desenvolvedor, explorando programação, jogos e novas tecnologias.</p>
-
-###
-
-<h4 align="left">Rede sociais</h4>
-
-###
+- 🎓 Estudante de graduação na **UNIESP**.
+- 💻 Foco atual de estudos e desenvolvimento: **Java (Spring)**, **Python** e **SQL**.
+- 🛠️ Experiência acadêmica e prática com modelagem de sistemas (UML), triggers, views e lógica de programação.
+- 🌱 Contribuindo para projetos práticos e colaborativos, como o repositório `medtimer`.
+  
+## 🛠️ Tecnologias e Ferramentas
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <!-- Ícones das tecnologias -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring" title="Spring" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="SQL" title="SQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
 </div>
 
-###
-
-<p align="left">Programas de linguagens</p>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-</div>
-
-###
+## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilidio83&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ilidio83&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radium&include_all_commits=true&count_private=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=radium"/>
 </div>
 
-###
+## 📫 Como me encontrar
 
-<br clear="both">
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="20" alt="LinkedIn" /> **LinkedIn:** [Seu LinkedIn Aqui](https://www.linkedin.com/in/ilidioneto329499362/)
+- ✉️ **E-mail:** [Seu E-mail Aqui](mailto:ilidioneto00@gmail.com)
 
-###
+---
+⭐️ *Deixe uma estrela nos projetos se eles te ajudarem de alguma forma!*
